@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Add.vi" Type="VI" URL="../Add.vi"/>
 		<Item Name="Divide.vi" Type="VI" URL="../Divide.vi"/>
+		<Item Name="Subtract.vi" Type="VI" URL="../Subtract.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
